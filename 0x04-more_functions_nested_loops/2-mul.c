@@ -1,7 +1,7 @@
-include "main.h"
+#include "main.h"
 
 /**
- * mul - multiplication function
+ * main - multiplication function
  * @a: first int
  * @b: second int
  * Return: multiplication result
