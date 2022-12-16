@@ -1,8 +1,11 @@
 #include "main.h"
 
 /**
- * prints more numbers - many more
+ * more_numbers - prints more numbers
+ *
+ * Return: void
  */
+
 
 void more_numbers(void)
 {
