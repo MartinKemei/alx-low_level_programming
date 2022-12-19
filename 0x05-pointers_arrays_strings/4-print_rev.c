@@ -16,5 +16,4 @@ void print_rev(char *s)
 	}
 
 	for (a -= 1; a >= 0; a--)
-		return (0);
 }
