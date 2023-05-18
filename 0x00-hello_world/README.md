@@ -9,6 +9,6 @@
 - linking
 
 ## writing simple C programs
-- using printf, putchar and puts
+- using `printf, putchar` and `puts`
 - understanding the `main` - a primary function for every 
 C program that serves as a starting point for program execution 
