@@ -1,4 +1,4 @@
-![C programming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDAJXmvHG2s_lauIc6A8uHsHlivMOaGXWG5d2t8KioE782jMwFRLf2OHU5dcIL8Nd1KA&usqp=CAU 'C programming')
+![C programming](https://apollo-singapore.akamaized.net/v1/files/r4nw6l1my7il2-IN/image;s=850x0 'C programming')
 
 # alx-low_level_programming
 
