@@ -11,20 +11,20 @@ ignores comments, replaces preprocessor directives (#) expands macros and includ
 - Compiling
 ```
 the output passed on from the preprocessor is then used to generate machine code
-or assembly code with a .s extension
+or assembly code with a `'.s` extension
 
 ```
 - Assembly
 ```
 the assembly code is then converted to object code (similar to binary code)
-with the .o extension  
+with the `.o` extension  
 
 ```
 - Linking
 ```
 the final stage where all the object/machine code generated
 from source code is linked and compressed into an executable file 
-a.out or .exe in Windows
+`a.out` or `.exe` in Windows
 
 ```
 
