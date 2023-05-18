@@ -2,28 +2,29 @@
 
 # 0x00. C - Hello, World
 
-## gcc and other compilers
-- preprocessing
+## C compilation process
+- Preprocessing
 ```
-ignores comments, replaces preprocessor directives (#) expands macros and header files
+ignores comments, replaces preprocessor directives (#) expands macros and includes the header files
 
 ```
-- compiling
+- Compiling
 ```
 the output passed on from the preprocessor is then used to generate machine code
 or assembly code with a .s extension
 
 ```
-- assembly
+- Assembly
 ```
 the assembly code is then converted to object code (similar to binary code)
 with the .o extension  
 
 ```
-- linking
+- Linking
 ```
-the final stage where all the object/machine code is linked to 
-an executable file a.out or .exe in Windows
+the final stage where all the object/machine code generated
+from source code is linked and compressed into an executable file 
+a.out or .exe in Windows
 
 ```
 
