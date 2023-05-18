@@ -1,3 +1,5 @@
+![hello-world](https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/hello-world.png 'hello-world')
+
 # 0x00. C - Hello, World
 
 ## gcc and other compilers
