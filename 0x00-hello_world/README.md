@@ -16,8 +16,8 @@ and allocation along with the overall concepts that drive programming.
 - Developing and Building databases
 - Working in embedded systems
 
-> Advantages of C;
-- Efficiency
-- Portabilty
+## Advantages of C
+- Efficiency - can be used to create high-performance applications. 
+- Portabilty - C programs can be compiled and run on a wide variety of OS's.
 - Low-level access
-- Large user community
+- Large user community - has an active community hence many resources and libraries available
