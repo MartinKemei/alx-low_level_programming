@@ -8,4 +8,5 @@
 
 ## writing simple C programs
 - using printf, putchar and puts
-- understanding the `main` where a program starts from 
+- understanding the `main` - a primary function for every 
+C program that serves as a starting point for program execution 
