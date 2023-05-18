@@ -4,13 +4,28 @@
 
 ## gcc and other compilers
 - preprocessing
-'''
-ignores comments, expands macros and header files resulting in 
-a large file that is input for the compiler
-'''
+```
+ignores comments, replaces preprocessor directives (#) expands macros and header files
+
+```
 - compiling
-- assembly 
+```
+the output passed on from the preprocessor is then used to generate machine code
+or assembly code with a .s extension
+
+```
+- assembly
+```
+the assembly code is then converted to object code (similar to binary code)
+with the .o extension  
+
+```
 - linking
+```
+the final stage where all the object/machine code is linked to 
+an executable file a.out or .exe in Windows
+
+```
 
 ## writing simple C programs
 - using `printf, putchar` and `puts`
