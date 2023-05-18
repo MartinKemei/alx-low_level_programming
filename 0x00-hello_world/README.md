@@ -11,7 +11,7 @@ ignores comments, replaces preprocessor directives (#) expands macros and includ
 - Compiling
 ```
 the output passed on from the preprocessor is then used to generate machine code
-or assembly code with a `'.s` extension
+or assembly code with a `.s` extension
 
 ```
 - Assembly
