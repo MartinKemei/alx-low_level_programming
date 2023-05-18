@@ -4,6 +4,10 @@
 
 ## gcc and other compilers
 - preprocessing
+'''
+ignores comments, expands macros and header files resulting in 
+a large file that is input for the compiler
+'''
 - compiling
 - assembly 
 - linking
