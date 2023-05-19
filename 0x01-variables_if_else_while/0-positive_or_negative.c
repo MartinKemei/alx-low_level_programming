@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- *main - prints a random number and states whether its +ve/-ve
+/**
+ *main - a program that prints random ints
  *
  *Return: 0
  */
@@ -29,6 +29,5 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	
 	return (0);
 }
