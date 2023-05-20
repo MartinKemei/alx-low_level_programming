@@ -53,3 +53,23 @@ if (condition1) {
   // block of code to be executed if the condition1 is false and condition2 is false
 }
 ```
+## C `while` and `do ... while` loop
+### The `while loop`
+In C programming language, the `while` Loop is an entry-controlled loop. When the specified condition is still true, this loop may be used to iterate the block of code code.
+> Syntax
+```
+while (test expression) {
+// body of the loop
+}
+```
+### The `do ... while` loop
+There is one significant distinction between the `while` loop and the `do..while` loop. The `do...while` loop's body is run at least once. The test expression is only evaluated after that.
+> Syntax
+```
+do {
+// body of the loop
+}
+while (test expression);
+```
+
+
