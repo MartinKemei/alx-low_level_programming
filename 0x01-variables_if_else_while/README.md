@@ -7,7 +7,7 @@ which can be manipulated by a program.
 A variable's name can include letters, numbers, and the underscore character.
 Either a letter or an underscore must come first. Because C is case-sensitive,
 uppercase and lowercase characters are separate.
-- Common basic variable types;
+### Common basic variable types;
 ```
 char: 1 byte
 int: 4 byte(s)
