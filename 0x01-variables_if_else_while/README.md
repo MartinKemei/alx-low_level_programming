@@ -61,6 +61,9 @@ A loop is a type of control structure that makes a statement or set of statement
 
 ## C `while` and `do ... while` loop
 ### The `while loop`
+
+![](https://www.cs.uah.edu/~rcoleman/CS121/ClassTopics/Images/Loops03.jpg)
+
 In C programming language, the `while` Loop is an entry-controlled loop. When the specified condition is still true, this loop may be used to iterate the block of code code.
 > Syntax
 ```
