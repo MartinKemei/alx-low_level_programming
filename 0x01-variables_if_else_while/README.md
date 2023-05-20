@@ -57,6 +57,8 @@ if (condition1) {
 
 ![loops](https://www.cs.uah.edu/~rcoleman/CS121/ClassTopics/Images/Loops01.jpg 'loops')
 
+A loop is a type of control structure that makes a statement or set of statements execute repeatedly. You will frequently want to repeat an action in a program until a certain condition has been met. We achieve this through Loops.
+
 ## C `while` and `do ... while` loop
 ### The `while loop`
 In C programming language, the `while` Loop is an entry-controlled loop. When the specified condition is still true, this loop may be used to iterate the block of code code.
