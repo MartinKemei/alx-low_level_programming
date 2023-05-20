@@ -82,5 +82,12 @@ do {
 }
 while (test expression);
 ```
+## Boolean Variables and Data Type ( or lack thereof in C )
+A true boolean data type could be used for storing logical values, and would only have two legal values - `"true"`, and `"false"`.
+C does not have boolean data types, and normally uses integers for boolean testing.
+Zero is used to represent false, and One is used to represent true.
+For interpretation, Zero is interpreted as false and anything non-zero is interpreted as true.
+To make life easier, C Programmers typically define the terms "true" and "false" to have values 1 and 0 respectively.
+
 
 
