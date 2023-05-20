@@ -39,7 +39,7 @@ if (condition) {
 }
 ```
 ### The *else if* Statement
-the 'else if' statement is used to specify a new condition if the first condition is `false`
+the `else` `if` statement is used to specify a new condition if the first condition is `false`
 > Syntax
 ```
 if (condition1) {
