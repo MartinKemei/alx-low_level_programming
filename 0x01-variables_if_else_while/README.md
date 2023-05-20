@@ -63,6 +63,8 @@ while (test expression) {
 }
 ```
 ### The `do ... while` loop
+!['do ... while loop'](https://www.cs.uah.edu/~rcoleman/CS121/ClassTopics/Images/Loops06.jpg 'do while loop')
+
 There is one significant distinction between the `while` loop and the `do..while` loop. The `do...while` loop's body is run at least once. The test expression is only evaluated after that.
 > Syntax
 ```
