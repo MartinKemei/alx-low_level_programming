@@ -22,15 +22,15 @@ double: 8 byte(s)
 ## C if ... else statements
 ### The *if* Statement
 the `if` statement is used to specify a block  of code to be executed if a `condition` is `true.`
-> syntax
+> Syntax
 ```
 if (condition) {
 // block of code to be executed if condtion is true
 }
 ```
-### The *else* statement
+### The *else* Statement
 the `else` statement is used to specify a block of code to be executed if the `condition` is `false.`
-> syntax
+> Syntax
 ```
 if (condition) {
 // block of code to be executed if the statement is true
@@ -38,5 +38,15 @@ if (condition) {
 // block of code to be executed if the condition is false
 }
 ```
-
-
+### The *else if* Statement
+the 'else if' statement is used to specify a new condition if the first condition is `false`
+> Syntax
+```
+if (condition1) {
+  // block of code to be executed if condition1 is true
+} else if (condition2) {
+  // block of code to be executed if the condition1 is false and condition2 is true
+} else {
+  // block of code to be executed if the condition1 is false and condition2 is false
+}
+```
