@@ -17,5 +17,26 @@ double: 8 byte(s)
 ```
 
 ## C keywords 
-
 `auto` `double` `int` `struct` `break` `else` `long` `switch` `case` `enum` `register` `typedef` `char` `extern` `return` `union` `continue` `for` `signed` `void` `do` `if` `static` `while` `default` `goto` `sizeof` `volatile` `const` `float` `short` `unsigned`
+
+## C if ... else statements
+### The *if* Statement
+the `if` statement is used to specify a block  of code to be executed if a `condition` is `true.`
+> syntax
+```
+if (condition) {
+// block of code to be executed if condtion is true
+}
+```
+### The *else* statement
+the `else` statement is used to specify a block of code to be executed if the `condition` is `false.`
+> syntax
+```
+if (condition) {
+// block of code to be executed if the statement is true
+} else {
+// block of code to be executed if the condition is false
+}
+```
+
+
