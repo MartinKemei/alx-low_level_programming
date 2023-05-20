@@ -14,7 +14,7 @@ int main(void)
 	while (1)
 	{
 		putchar(num / 100 + '0');
-		putchar(num / 10 +'0');
+		putchar(num / 10 + '0');
 		putchar(num % 10 + '0');
 
 		if (num != 789)
