@@ -26,7 +26,7 @@ uppercase and lowercase characters are separate.
 ### The *if* Statement
 the `if` statement is used to specify a block  of code to be executed if a `condition` is `true.`
 > Syntax
-```
+```c
 if (condition) {
 // block of code to be executed if condtion is true
 }
@@ -34,7 +34,7 @@ if (condition) {
 ### The *else* Statement
 the `else` statement is used to specify a block of code to be executed if the `condition` is `false.`
 > Syntax
-```
+```c
 if (condition) {
 // block of code to be executed if the statement is true
 } else {
@@ -44,7 +44,7 @@ if (condition) {
 ### The *else if* Statement
 the `else` `if` statement is used to specify a new condition if the first condition is `false`
 > Syntax
-```
+```c
 if (condition1) {
   // block of code to be executed if condition1 is true
 } else if (condition2) {
@@ -66,7 +66,7 @@ A loop is a type of control structure that makes a statement or set of statement
 
 In C programming language, the `while` Loop is an entry-controlled loop. When the specified condition is still true, this loop may be used to iterate the block of code code.
 > Syntax
-```
+```c
 while (test expression) {
 // body of the loop
 }
@@ -76,7 +76,7 @@ while (test expression) {
 
 There is one significant distinction between the `while` loop and the `do..while` loop. The `do...while` loop's body is run at least once. The test expression is only evaluated after that.
 > Syntax
-```
+```c
 do {
 // body of the loop
 }
