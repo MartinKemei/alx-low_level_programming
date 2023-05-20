@@ -91,6 +91,7 @@ Zero is used to represent false, and One is used to represent true.
 For interpretation, Zero is interpreted as false and anything non-zero is interpreted as true.
 To make life easier, C Programmers typically define the terms "true" and "false" to have values 1 and 0 respectively.
 
+---
 > Don't rush the process, good things takes time.
 
 *--> Anonymous*
