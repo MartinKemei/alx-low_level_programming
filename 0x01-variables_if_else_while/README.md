@@ -20,7 +20,9 @@ uppercase and lowercase characters are separate.
 | long double | at least 10 usually 12 OR 16 | %LF |
 
 ## C keywords 
-`auto` `double` `int` `struct` `break` `else` `long` `switch` `case` `enum` `register` `typedef` `char` `extern` `return` `union` `continue` `for` `signed` `void` `do` `if` `static` `while` `default` `goto` `sizeof` `volatile` `const` `float` `short` `unsigned`
+```c
+auto double int struct break else long switch case enum register typedef char extern return union continue for signed void do if static while default goto sizeof volatile const float short unsigned
+```
 
 ## C if ... else statements
 ### The *if* Statement
