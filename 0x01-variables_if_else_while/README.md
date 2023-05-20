@@ -53,6 +53,10 @@ if (condition1) {
   // block of code to be executed if the condition1 is false and condition2 is false
 }
 ```
+# Loops
+
+![loops](https://www.cs.uah.edu/~rcoleman/CS121/ClassTopics/Images/Loops01.jpg 'loops')
+
 ## C `while` and `do ... while` loop
 ### The `while loop`
 In C programming language, the `while` Loop is an entry-controlled loop. When the specified condition is still true, this loop may be used to iterate the block of code code.
