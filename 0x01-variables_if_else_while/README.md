@@ -8,13 +8,16 @@ A variable's name can include letters, numbers, and the underscore character.
 Either a letter or an underscore must come first. Because C is case-sensitive,
 uppercase and lowercase characters are separate.
 
-## Basic variable types
-```
-char: 1 byte
-int: 4 byte(s)
-float: 4 byte(s)
-double: 8 byte(s)
-```
+## Commonly used data types
+
+| Type | Size (bytes) | Format Specifier |
+| ---- | ------------ | ------------ |
+| int | 2 OR 4 | %d %i|
+| char | 1 | %c |
+| float | 4 | %f |
+| double | 8 | %lf |
+| unsigned int | 2 OR 4 | %u |
+| long double | at least 10 usually 12 OR 16 | %LF |
 
 ## C keywords 
 `auto` `double` `int` `struct` `break` `else` `long` `switch` `case` `enum` `register` `typedef` `char` `extern` `return` `union` `continue` `for` `signed` `void` `do` `if` `static` `while` `default` `goto` `sizeof` `volatile` `const` `float` `short` `unsigned`
