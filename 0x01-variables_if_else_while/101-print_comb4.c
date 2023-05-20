@@ -17,7 +17,7 @@ int main(void)
 		putchar(num / 10 +'0');
 		putchar(num % 10 + '0');
 
-		if (num !=789)
+		if (num != 789)
 		{
 			putchar(',');
 			putchar(' ');
