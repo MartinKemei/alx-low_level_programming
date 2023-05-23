@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - entry point
- *Description: a program that prints lowercase letters followed by
+ *print_alphabet - a program that prints lowercase letters followed by
  *a new line
+ *
  *Return: void
  */
 
