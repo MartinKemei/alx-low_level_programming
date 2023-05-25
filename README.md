@@ -14,7 +14,7 @@ It packs powerful features that has made it cement its rank in the programming m
 One of the main reasons why C has always been a popular language is its _portability_.
 With slight modifications, you can run a C program in any other platform or computer system.
 
-## Advantages of C
+## Why C is awesome
 It doesn't appear that the C programming language will ever become obsolete. It is perfect for _low level development_ for things like operating system kernels and embedded software because of its proximity to the hardware, high portability, and predictable consumption of resources (memory allocation). For high complexity data manipulation applications, such as databases or 3D animation, its adaptability, effectiveness, and strong performance make it a great choice. Even if many modern programming languages outperform C in their intended applications, this does not imply that they are superior to C in other respects. When performance is the main consideration, C still reigns supreme.
 
 # Conclusion
