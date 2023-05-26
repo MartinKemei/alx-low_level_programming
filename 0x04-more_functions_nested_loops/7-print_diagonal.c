@@ -3,7 +3,7 @@
 /**
  *print_diagonal - draws a diagonal line
  *
- *@n:
+ *@n: no. of times \ should be printed
  *Return: void
  */
 
@@ -20,7 +20,6 @@ void print_diagonal(int n)
 		while (i <= n)
 		{
 			_putchar('\\');
-			_putchar('\n');
 			i++;
 		}
 		_putchar('\n');
