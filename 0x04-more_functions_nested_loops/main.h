@@ -10,6 +10,7 @@ void print_square(int size);
 void print_line(int n);
 void more_numbers(void);
 int _isdigit(int c);
+void print_triangle(int size);
 int _isupper(int c);
 
 #endif
