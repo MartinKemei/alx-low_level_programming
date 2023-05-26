@@ -12,7 +12,7 @@ int main(void)
 	int i;
 	long number = 612852475143;
 
-	for (i = (int) sqrt(number); i >= 2; i--)
+	for (i = (int) sqrt(number); i > 2; i--)
 	{
 		if (number % i == 0)
 		{
