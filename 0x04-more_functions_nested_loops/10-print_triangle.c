@@ -3,6 +3,7 @@
 /**
  *print_triangle - prints a tiangle followed by a new line
  *
+ *@size: size of triangle
  *Return: void
  */
 
