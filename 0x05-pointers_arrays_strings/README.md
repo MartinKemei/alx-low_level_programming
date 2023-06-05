@@ -1,3 +1,5 @@
+![](https://i.ytimg.com/vi/CXcBu5fl0v8/maxresdefault.jpg)
+
 # 0x05. C - Pointers, arrays and strings
 
 ## What is a pointer?
