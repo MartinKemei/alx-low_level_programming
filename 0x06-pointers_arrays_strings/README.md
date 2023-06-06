@@ -2,3 +2,6 @@
 
 # 0x06-pointers_arrays_strings
 - Pointers store adddresses of variables
+|------|------|-------|
+|pointer|array|strings|
+|first|second|third|
