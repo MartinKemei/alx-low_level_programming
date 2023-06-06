@@ -14,7 +14,7 @@ void puts_half(char *str)
 	int length;
 
 	length = 0;
-	
+
 	for (i = 0; str[i] != '\0'; i++)
 	{
 		length++;
