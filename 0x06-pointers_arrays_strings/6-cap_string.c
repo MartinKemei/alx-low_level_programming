@@ -19,8 +19,10 @@ char *cap_string(char *str)
 		{
 			if (*(str + count) == sep[i])
 			{
-				if ((*(str + (count + 1)) >= 97) && (*(str + (count + 1)) <= 122))
-					*(str + (count + 1)) = *(str + (count + 1)) - 32;
+				if ((*(str + (count + 1)) >= 97) && (*(str
+						       + (count + 1)) <= 122))
+					*(str + (count + 1)) = *(str
+							  + (count + 1)) - 32;
 				break;
 			}
 		}
