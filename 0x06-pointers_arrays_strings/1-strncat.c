@@ -4,6 +4,7 @@
  *_strncat - concatenates two strings
  *@dest: pointer to destination buffer
  *@src: pointer to source string to be appended
+ *@n: number of bytes
  *
  *Return: dest
  */
